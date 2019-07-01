@@ -13,5 +13,5 @@ Alle Varianten auf der Produktseite Tabellarisch darstellen. Habe das Modul auf 
 
 Gerne könnt Ihr mir auch ein Kaffee Spenden, wenn das Modul euch gefällt :). 
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SC3Z8J99MLUBN)
+[![](https://www.paypalobjects.com/de_DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SC3Z8J99MLUBN)
 
