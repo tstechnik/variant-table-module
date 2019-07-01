@@ -1,0 +1,38 @@
+{
+  "name":        "tstechnik/variant-table-module",
+  "description": "",
+  "type":        "oxideshop-module",
+  "keywords":    [
+    "oxid",
+    "modules",
+    "eShop",
+    "Editor"
+  ],
+  "homepage":    "https://www.artan-design.de",
+  "license":     [
+    "GPL-3.0",
+    "proprietary"
+  ],
+  "authors":     [
+    {
+      "name":  "Artan Design - Webentwicklung",
+      "email": "info@artan-design.de"
+    }
+  ],
+  "extra":       {
+    "oxideshop": {
+      "target-directory": "tstechnik/variant-table-module"
+    }
+  },
+  "require":     {
+    "php": ">=5.6"
+  },
+  "autoload":    {
+    "psr-4": {
+      "tstechnik\\VariantTableModule\\": "../../../source/modules/tstechnik/variant-table-module"
+    }
+  }
+}
+
+
+
